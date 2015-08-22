@@ -1,3 +1,4 @@
 # DEXTER
 
-Output Dataset of Large-Scale Discovery and Extraction of Product Specifications on the Web
+DEXTER is a research project designed to discover and extraction product specifications on the Web.
+This repository shares the output XML dump of the extracted specifications.
