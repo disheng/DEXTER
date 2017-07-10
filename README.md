@@ -49,8 +49,6 @@ following folders:
 2. dexter_sources
 3. dataset\_local_categories.json
 
-This dataset is complemental to the [DEXTER Specifications extraction](https://github.com/disheng/DEXTER) repository previously published.
-
 ### Data
 	Under /data/*
 	
